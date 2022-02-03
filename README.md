@@ -1,6 +1,6 @@
-<div>
-    <img ali width="100%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/>
-</div>
+<p align=center >
+    <img ali width="60%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/>
+</p>
 
 <h1 align="center">Muhammad Zaeem Nasir </h1>
 <h3 align="center">   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">I'm a Developer from Pakistan.</h3>
@@ -51,7 +51,6 @@
 
 </p>
 <br/>
-<div class ="img-container" style ="text-align: center;" >
 <!--GitHub Streak Stats [img] -->
 <p align="center">
     <a href="https://github.com/mzaeemnasir">
@@ -59,11 +58,10 @@
     </a>
 </p>
 <!--GITHUB STATS -->
-</div>
 
 ## 📊 My Github Stats
 
-<div class ="img-container" style ="text-align: center;" >
+<p align =center>
 <br/>
     <a href="htpps://github.com/mzaeemnasir"><img alt="M Zaeem Nasir Github Stats" src="https://github-readme-stats.vercel.app/api?username=mzaeemnasir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
     <a href="https://github.com/mzaeemnasir"><img alt="M Zaeem Nasir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaeemnasir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
@@ -72,7 +70,7 @@
 <br/>
 <br/>
 
-</div>
+</p>
 <a href="https://github.com/mzaeemnasir"><img alt="M Zaeem Nasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mzaeemnasir&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
@@ -94,4 +92,3 @@
     <img src="https://komarev.com/ghpvc/?username=mzaeemnasir">
 </a>
 <a href="https://github.com/mzaeemnasir?tab=followers"><img src="https://img.shields.io/github/followers/mzaeemnasir?label=Followers&style=social" alt="GitHub Badge"></a>
-
