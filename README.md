@@ -1,13 +1,5 @@
-<style>
-      .img-container {
-        text-align: center;
-      }
-      .imgg{
-           border-radius: 30%;
-      }
-</style>
-<div class ="img-container" >
-<a href="#"><img class="imgg" width="30%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/></a>
+<div class ="img-container" style ="text-align: center;" >
+<a href="#"><img style= "border-radius: 30%;" width="30%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/></a>
 </div>
 
 <h1 align="center">Muhammad Zaeem Nasir </h1>
@@ -59,7 +51,7 @@
 
 </p>
 <br/>
-<div class= "img-container ">
+<div class ="img-container" style ="text-align: center;" >
 <!--GitHub Streak Stats [img] -->
 <p align="center">
     <a href="https://github.com/mzaeemnasir">
@@ -71,8 +63,8 @@
 
 ## 📊 My Github Stats
 
-<div class= "img-container">
-  <br/>
+<div class ="img-container" style ="text-align: center;" >
+<br/>
     <a href="htpps://github.com/mzaeemnasir"><img alt="M Zaeem Nasir Github Stats" src="https://github-readme-stats.vercel.app/api?username=mzaeemnasir&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0"/></a>
     <a href="https://github.com/mzaeemnasir"><img alt="M Zaeem Nasir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaeemnasir&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
