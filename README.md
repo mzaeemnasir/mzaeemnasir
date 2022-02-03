@@ -1,5 +1,5 @@
 <div style ="text-align: center" >
-<a href="#"><img style= "border-radius: 30%" width="30%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/></a>
+    <img style= "border-radius: 20%" width="30%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/>
 </div>
 
 <h1 align="center">Muhammad Zaeem Nasir </h1>
@@ -94,3 +94,4 @@
     <img src="https://komarev.com/ghpvc/?username=mzaeemnasir">
 </a>
 <a href="https://github.com/mzaeemnasir?tab=followers"><img src="https://img.shields.io/github/followers/mzaeemnasir?label=Followers&style=social" alt="GitHub Badge"></a>
+
