@@ -1,5 +1,5 @@
-<div style ="text-align: center" >
-    <img style= "border-radius: 20%" width="30%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/>
+<div text-align=center >
+    <img ali width="70%" height="auto" src="https://i.imgur.com/iluZIeb.gif" height="175px"/>
 </div>
 
 <h1 align="center">Muhammad Zaeem Nasir </h1>
