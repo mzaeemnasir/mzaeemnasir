@@ -30,7 +30,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <!--C#   -->
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://iconape.com/wp-content/files/km/370669/svg/c-sharp-logo-icon-png-svg.png" style= "width: 40px"/> </a>
-    <!--Discord Bot Developer  -->
+    <!--Discord Bot Developer  --> 
     <a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://i.imgur.com/dsyltkM.png" alt="express" width="45" height="45"/> </a>
     <!--Js    -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
