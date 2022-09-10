@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **[Dicord Bot Developer](https://discordapp.com/users/608254748335931402)** 🤖️
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **m.zaeem.nasir@gmail.com**
 
