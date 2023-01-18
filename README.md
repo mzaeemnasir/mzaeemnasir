@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **[Dicord Bot Developer](https://discordapp.com/users/608254748335931402)** 🤖️
+- 🔭 I’m currently working on **Interactive Brokers Trading Bots**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Type Script**
 
 - 📫 How to reach me **m.zaeem.nasir@gmail.com**
 
