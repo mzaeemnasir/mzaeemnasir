@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Interactive Brokers Trading Bots**
+- 🔭 I’m currently working on **Trading Bots**
 
-- 🌱 I’m currently learning **Type Script**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **m.zaeem.nasir@gmail.com**
 
