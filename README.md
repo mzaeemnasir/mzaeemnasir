@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Trading Bots**
+- 🔭 I’m currently working on **--**
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **m.zaeem.nasir@gmail.com**
 
