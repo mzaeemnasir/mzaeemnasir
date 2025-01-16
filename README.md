@@ -17,12 +17,12 @@ I'm a dedicated full-stack developer specializing in AI systems and algorithmic 
 <div align="center">
   <h3>Languages & Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,react,cs,js,html,css&percs=50" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,react,cs,js,html,css,flutter,django,unity&percs=50" />
   </a>
   
   <h3>Tools & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,firebase,postman&percs=50" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,mongodb,firebase,postman,aws,linux&percs=50" />
   </a>
 </div>
 
