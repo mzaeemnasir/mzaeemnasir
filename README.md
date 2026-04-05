@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=220&section=header&text=Muhammad%20Zaeem%20Nasir&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Voice%20Systems%20%E2%80%A2%20Trading%20Systems%20Engineer&descSize=16&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6dd4&height=220&section=header&text=Muhammad%20Zaeem%20Nasir&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Voice%20Systems%20%7C%20Trading%20Engineer&descSize=16&descAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -69,11 +69,6 @@ Building automated trading infrastructure — signal aggregation, real-time WebS
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mzaeemnasir&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzaeemnasir&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-<br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mzaeemnasir&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff"/>
 
