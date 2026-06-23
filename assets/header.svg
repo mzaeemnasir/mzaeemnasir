@@ -1,0 +1,35 @@
+<svg viewBox="0 0 1200 220" width="1200" height="220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Zaeem Nasir, AI Engineer, Voice and Real-Time Systems, Trading Infrastructure">
+  <title>Muhammad Zaeem Nasir</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#1a6dd4"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1a6dd4"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <g>
+    <path fill="url(#wave)" opacity="0.30"
+      d="M-150,165 C50,140 250,195 450,168 C650,142 850,196 1050,168 C1150,156 1250,180 1350,168 L1350,220 L-150,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -35 0; 0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#wave)" opacity="0.50"
+      d="M-150,182 C70,160 270,202 470,184 C670,166 870,204 1070,184 C1170,174 1260,194 1350,184 L1350,220 L-150,220 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 35 0; 0 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <text x="600" y="98" text-anchor="middle"
+    font-family="'JetBrains Mono','SF Mono','Courier New',monospace" font-size="50" font-weight="700"
+    fill="#ffffff" letter-spacing="1">Muhammad Zaeem Nasir</text>
+
+  <text x="600" y="135" text-anchor="middle"
+    font-family="'JetBrains Mono','SF Mono','Courier New',monospace" font-size="16" font-weight="500"
+    fill="#9fc6ff" letter-spacing="1.5">AI Engineer • Voice &amp; Real-Time Systems • Trading Infrastructure</text>
+</svg>
